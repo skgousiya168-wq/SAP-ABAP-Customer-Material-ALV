@@ -1,7 +1,3 @@
-*&---------------------------------------------------------------------*
-*& Include zrmm_cust_mat1747_sel
-*&---------------------------------------------------------------------*
-
 SELECTION-SCREEN BEGIN OF BLOCK b1 WITH FRAME TITLE TEXT-001.
 
   PARAMETERS:
