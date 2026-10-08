@@ -1,4 +1,4 @@
-CLASS zcl_cust_mat1748 DEFINITION
+CLASS zcl_cust_mat1747 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC.
@@ -53,7 +53,7 @@ CLASS zcl_cust_mat1748 DEFINITION
 ENDCLASS.
 
 
-CLASS zcl_cust_mat1748 IMPLEMENTATION.
+CLASS zcl_cust_mat1747 IMPLEMENTATION.
 
   METHOD validate_inputs.
 
