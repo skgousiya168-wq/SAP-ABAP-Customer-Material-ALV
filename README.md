@@ -77,7 +77,7 @@ User Analysis
 
 Main Class
 
-"ZCL_CUST_MAT1748"
+"ZCL_CUST_MAT1747"
 
 The class contains:
 
